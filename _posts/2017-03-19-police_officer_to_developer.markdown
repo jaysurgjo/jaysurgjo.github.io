@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Police officer to developer"
-date:   2017-03-19 07:31:49 +0000
+date:   2017-03-19 03:31:50 -0400
 ---
 
 
