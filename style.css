@@ -3,20 +3,16 @@ body {
     
 }
 
-.head {
+.head, .welcome, .px-4 {
     text-align: center;
     font-family: 'Barlow', sans-serif;
-}
-
-.welcome {
-    text-align: center;
 }
 
 #about-container {
     max-width: 1200px;
     margin: 10px auto;
     border: 1px solid;
-    box-shadow: 5px 10px grey;
+    box-shadow: 5px 10px rgb(172, 185, 146);
 }
 
 .about, main {
@@ -52,4 +48,12 @@ main {
 .email:hover {
     color: black;
     text-decoration: underline;
+}
+
+.jobs, .projects {
+    font-family: 'Barlow', sans-serif;
+}
+
+.jobs, .aws, .ccpd, .maxwell, .projects, .awssde, .maxsde, .police {
+    font-weight: bold;
 }
