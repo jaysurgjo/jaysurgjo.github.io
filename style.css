@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(233, 229, 214);
+}
+
+.description {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.head {
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+.welcome {
+    text-align: center;
+}
