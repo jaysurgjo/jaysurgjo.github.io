@@ -1,6 +1,5 @@
 body {
-    background-color: rgb(233, 229, 214);
-    
+    background-color: rgb(222, 237, 240);    
 }
 
 .head, .welcome, .px-4 {
@@ -12,7 +11,7 @@ body {
     max-width: 1200px;
     margin: 10px auto;
     border: 1px solid;
-    box-shadow: 5px 10px rgb(172, 185, 146);
+    box-shadow: 5px 10px rgb(178, 184, 163);
 }
 
 .about, main {
